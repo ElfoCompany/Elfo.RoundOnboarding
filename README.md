@@ -3,7 +3,7 @@
 This repository is menat to keep track of exercises for Round onboarding.
 Create a git repository (on your personal GitHub or where you prefer) with four folders, one for each following topic.
 Place the your solutions inside the corresponding folder.
-For codepens create your own account on codepen.io, fork the pen and implemnt the solution.
+For codepens create your own account on [codepen.io](https://codepen.io), fork the pen and implement the solution.
 
 
 ## ASP .NET Core
@@ -14,7 +14,7 @@ For codepens create your own account on codepen.io, fork the pen and implemnt th
 
 ## Vue
 
-Following codepens and exercises are related these 3 VueMastery courses that you need to follow.
+Following codepens and exercises are related to these three VueMastery courses that you need to follow.
 
 #### Intro to Vue.js
 | Lesson                | Start code                                           |
