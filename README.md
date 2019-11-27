@@ -8,7 +8,9 @@ For codepens create your own account on [codepen.io](https://codepen.io), fork t
 
 ## ASP .NET Core
 
-[Exercises related to Pluralsight course](https://app.pluralsight.com/library/courses/asp-dotnet-core-api-building-first/exercise-files)
+Follow the course [Building Your First API with ASP.NET Core](https://app.pluralsight.com/library/courses/asp-dotnet-core-api-building-first/table-of-contents) apart from the last two chapters (about Entity Framework)
+
+[Exercises](https://app.pluralsight.com/library/courses/asp-dotnet-core-api-building-first/exercise-files)
 
 [Learning check](https://app.pluralsight.com/library/courses/asp-dotnet-core-api-building-first/learning-check)
 
@@ -59,10 +61,14 @@ Following codepens and exercises are related to these three VueMastery courses t
 
 ## Typescript
 
-[Exercises related to Pluralsight course](https://app.pluralsight.com/library/courses/typescript-getting-started/exercise-files)
+Follow the course [TypeScript: Getting Started](https://app.pluralsight.com/library/courses/getting-started-typescript/table-of-contents)
+
+[Exercises](https://app.pluralsight.com/library/courses/typescript-getting-started/exercise-files)
 
 ## Git
 
-[Exercises related to Pluralsight course](https://app.pluralsight.com/library/courses/how-git-works/exercise-files)
+Follow the course [How Git Works](https://app.pluralsight.com/library/courses/how-git-works/table-of-contents)
+
+[Exercises](https://app.pluralsight.com/library/courses/how-git-works/exercise-files)
 
 [Learning check](https://app.pluralsight.com/library/courses/how-git-works/learning-check)
