@@ -1,8 +1,8 @@
 # Elfo.RoundOnboarding
 
-This repository is menat to keep track of exercises for Round onboarding.
+This repository is to keep track of exercises for Round onboarding.
 Create a git repository (on your personal GitHub or where you prefer) with four folders, one for each following topic.
-Place the your solutions inside the corresponding folder.
+Place your solution inside the corresponding folder.
 For codepens create your own account on [codepen.io](https://codepen.io), fork the pen and implement the solution.
 
 
@@ -16,9 +16,10 @@ Follow the course [Building Your First API with ASP.NET Core](https://app.plural
 
 ## Vue
 
-Following codepens and exercises are related to these three VueMastery courses that you need to follow.
+Codepens and exercises are related to these three VueMastery courses that you need to follow.
 
-#### Intro to Vue.js
+#### [Intro to Vue.js](https://www.vuemastery.com/courses/intro-to-vue-js/vue-instance)
+
 | Lesson                | Start code                                           |
 |-----------------------|--------------------------------------------|
 | The Vue instance      | https://codepen.io/VueMastery/pen/qxwZBQ   |
@@ -33,7 +34,7 @@ Following codepens and exercises are related to these three VueMastery courses t
 | Forms                 | https://codepen.io/GreggPollack/pen/jdgqKY |
 | Tabs                  | https://codepen.io/GreggPollack/pen/BMXKOR |
 
-#### Real World Vue
+#### [Real World Vue](https://www.vuemastery.com/courses/real-world-vue-js/real-world-intro)
 
 | Lesson                        | Start Code                                                                            |
 |-------------------------------|---------------------------------------------------------------------------------------|
@@ -46,7 +47,7 @@ Following codepens and exercises are related to these three VueMastery courses t
 | Slots                         | https://github.com/Code-Pop/real-world-vue/releases/tag/lesson8-slots-start           |
 | API Calls with Axios          | https://github.com/Code-Pop/real-world-vue/releases/tag/lesson9-axios-start           |
 
-#### Beautify with Vuetify
+#### [Beautify with Vuetify](https://www.vuemastery.com/courses/beautify-with-vuetify/getting-started-with-vuetify)
 
 | Lesson                              | Start Code                                                              |
 |-------------------------------------|-------------------------------------------------------------------------|
