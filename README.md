@@ -42,10 +42,10 @@ Codepens and exercises are related to these three VueMastery courses that you ne
 | Optimizing your IDE           | https://github.com/Code-Pop/real-world-vue/releases/tag/lesson3-editor-start          |
 | Vue Router Basics             | https://github.com/Code-Pop/real-world-vue/releases/tag/lesson4-routing-start         |
 | Dynamic Routes & History Mode | https://github.com/Code-Pop/real-world-vue/releases/tag/lesson5-dynamic-routing-start |
-| Single File Components        | https://github.com/Code-Pop/real-world-vue/releases/tag/lesson6-sfc-start)            |
+| Single File Components        | https://github.com/Code-Pop/real-world-vue/releases/tag/lesson6-sfc-start             |
 | Global Components             | https://github.com/Code-Pop/real-world-vue/releases/tag/lesson7-global-start          |
 | Slots                         | https://github.com/Code-Pop/real-world-vue/releases/tag/lesson8-slots-start           |
-| API Calls with Axios          | https://github.com/Code-Pop/real-world-vue/releases/tag/lesson9-axios-start           |
+| API Calls with Axios          | https://github.com/Code-Pop/real-world-vue/releases/tag/lesson9-axios-start<br/>(you'll need also db.json file https://github.com/Code-Pop/real-world-vue/blob/master/db.json)           |
 
 #### [Beautify with Vuetify](https://www.vuemastery.com/courses/beautify-with-vuetify/getting-started-with-vuetify)
 
