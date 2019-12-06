@@ -64,7 +64,7 @@ Codepens and exercises are related to these three VueMastery courses that you ne
 
 Follow the course [TypeScript: Getting Started](https://app.pluralsight.com/library/courses/getting-started-typescript/table-of-contents)
 
-[Exercises](https://app.pluralsight.com/library/courses/typescript-getting-started/exercise-files)
+[Exercises](https://app.pluralsight.com/library/courses/getting-started-typescript/exercise-files)
 
 ## Git
 
