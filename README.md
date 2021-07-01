@@ -73,3 +73,8 @@ Follow the course [How Git Works](https://app.pluralsight.com/library/courses/ho
 [Exercises](https://app.pluralsight.com/library/courses/how-git-works/exercise-files)
 
 [Learning check](https://app.pluralsight.com/library/courses/how-git-works/learning-check)
+
+## Domain Driven Design
+
+Follow the course [Domain-Driven Design In Practice](https://www.pluralsight.com/courses/domain-driven-design-in-practice)
+
